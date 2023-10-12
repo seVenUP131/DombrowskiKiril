@@ -1,0 +1,22 @@
+.left{
+    float: right;
+    padding: 0 1200px 600px 0px;
+    
+}
+
+
+.center{
+float: center;
+padding: 0 auto;  
+}
+
+.right{
+    float: right;
+    padding: 10px auto;
+    
+}
+
+.left1{
+    float: left;
+    padding: 0px 0 40px 0px;
+}
